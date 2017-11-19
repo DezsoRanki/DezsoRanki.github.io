@@ -1,0 +1,3 @@
+[submodule "themes/hueman"]
+	path = themes/hueman
+	url = https://github.com/DezsoRanki/hexo-theme-hueman.git
