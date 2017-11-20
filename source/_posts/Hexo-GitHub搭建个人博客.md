@@ -9,7 +9,7 @@ categories:
 
 <!-- ![](http://img06.tooopen.com/images/20170106/tooopen_sy_195886579867.jpg) -->
 
-<img src="http://img07.tooopen.com/images/20170630/tooopen_sy_215144649617.jpg">
+<img src="https://raw.githubusercontent.com/DezsoRanki/DezsoRanki.github.io/hexo/image/%E6%B5%B7%E8%BE%B9%E9%82%AE%E8%BD%AE.jpg">
 
 之前按照网上的一般教程搭建了Hexo博客，但是在更换电脑想改博客的时候发现很难操作。因此又基于git重新搭建了一个新的博客，在这里做一个总结。
 
