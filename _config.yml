@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Dezso Ranki个人博客
 subtitle:
 description:
 author: Dezso Ranki
@@ -77,4 +77,7 @@ theme: hueman
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repository: https://github.com/DezsoRanki/DezsoRanki.github.io.git
+  branch: master
+  plugins: -hexo-generator-feed
